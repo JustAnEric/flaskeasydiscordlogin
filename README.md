@@ -28,4 +28,6 @@ def loginDone():
   try:
     return f'{login2["user"].get("username")}#{login2["user"].get("discriminator")}' # return the username and discriminator (tag) of the user that signed in
   except: return login2 # if there is an error, we just return unauthorised.
+  
+app.run()
 ```
