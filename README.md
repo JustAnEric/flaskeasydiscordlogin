@@ -58,4 +58,5 @@ def loginDone():
 app.run()
 ```
 
-__**Maintained and Growed by Eric**__
+__**Maintained and Growed by Eric to Share with the World**__
+Please Favourite this Project if you liked it.
