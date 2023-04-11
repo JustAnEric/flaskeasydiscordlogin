@@ -58,4 +58,4 @@ def loginDone():
 app.run()
 ```
 
-**__Maintained and Growed by Eric__**
+__**Maintained and Growed by Eric**__
