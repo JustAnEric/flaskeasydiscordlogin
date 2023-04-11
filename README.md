@@ -3,7 +3,9 @@ A simple API to create an access token and share it with Flask including user da
 
 ## Getting Started
 In order to use this API, you will **need to CD into your project's directory and type in Terminal**: `git clone https://github.com/JustAnEric/flaskeasydiscordlogin.py.git`
+
 This will install **our API onto your computer or hard drive.**
+
 To get the package working, put this in your main file:
 ```py
 from flask import Flask, render_template, abort, flash, session, url_for, request
@@ -59,4 +61,5 @@ app.run()
 ```
 
 __**Maintained and Growed by Eric to Share with the World**__
+
 Please Favourite this Project if you liked it.
